@@ -1,7 +1,7 @@
-# dijktras_psudo
+# dijkstra_psudo
 
 ~~~c
-Dijktras(S,E)//s start node
+Dijkstra(S,E)//s start node
 	dist(S)=0 //distance of start node to 0
 	dist(v)=inf //distance of every other node to big
 	Prev(v) = nullptr //the begining of the path
