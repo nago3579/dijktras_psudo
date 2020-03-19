@@ -1,6 +1,6 @@
 # dijktras_psudo
 
-~~~
+~~~c
 Dijktras(S,E)//s start node
 	dist(S)=0 //distance of start node to 0
 	dist(v)=inf //distance of every other node to big
